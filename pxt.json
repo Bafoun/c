@@ -1,0 +1,22 @@
+{
+    "name": "c",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "ds18b20": "github:dfrobot/pxt-ds18b20#be0b0fc819d20741937615a547e784555abf9390"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
